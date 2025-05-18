@@ -111,15 +111,6 @@ Ejemplo de datos:
 
 ---
 
-## 📌 Pendientes / Futuras mejoras
-
-- Exportación combinada con gráficos
-- Carga desde bases de datos
-- Interfaz web con React o Streamlit
-- Autenticación JWT para proteger endpoints
-
----
-
 ## 👤 Autor
 
 **jarias**
