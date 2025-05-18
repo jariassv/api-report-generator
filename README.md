@@ -122,7 +122,7 @@ Ejemplo de datos:
 
 ## 👤 Autor
 
-**jarias
+**jarias**
 
 ## 📜 Licencia
 
