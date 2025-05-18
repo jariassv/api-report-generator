@@ -123,7 +123,3 @@ Ejemplo de datos:
 ## 👤 Autor
 
 **jarias**
-
-## 📜 Licencia
-
-MIT License
